@@ -918,7 +918,176 @@
 				{
 					"name": "Revúca",
 					"slug": "revuca",
-					"municipalities": []
+					"municipalities": [
+						{
+							"name": "Jelšava",
+							"slug": "jelsava"
+						},
+						{
+							"name": "Revúca",
+							"slug": "revuca"
+						},
+						{
+							"name": "Tornaľa",
+							"slug": "tornala"
+						},
+						{
+							"name": "Držkovce",
+							"slug": "drzkovce"
+						},
+						{
+							"name": "Gemer",
+							"slug": "gemer"
+						},
+						{
+							"name": "Gemerská Ves",
+							"slug": "gemerska_ves"
+						},
+						{
+							"name": "Gemerské Teplice",
+							"slug": "gemerske_teplice"
+						},
+						{
+							"name": "Gemerský Sad",
+							"slug": "gemersky_sad"
+						},
+						{
+							"name": "Hrlica",
+							"slug": "hrlica"
+						},
+						{
+							"name": "Hucín",
+							"slug": "hucin"
+						},
+						{
+							"name": "Chvalová",
+							"slug": "chvalova"
+						},
+						{
+							"name": "Chyžné",
+							"slug": "chyzne"
+						},
+						{
+							"name": "Kameňany",
+							"slug": "kamenany"
+						},
+						{
+							"name": "Levkuša",
+							"slug": "levkusa"
+						},
+						{
+							"name": "Leváre",
+							"slug": "levare"
+						},
+						{
+							"name": "Licince",
+							"slug": "licince"
+						},
+						{
+							"name": "Lubeník",
+							"slug": "lubenic"
+						},
+						{
+							"name": "Magnezitovce",
+							"slug": "magnezitovce"
+						},
+						{
+							"name": "Mokrá Lúka",
+							"slug": "mokra_luka"
+						},
+						{
+							"name": "Muránska Dlhá Lúka",
+							"slug": "moranska_dlha_luka"
+						},
+						{
+							"name": "Muránska Huta",
+							"slug": "muranska_huta"
+						},
+						{
+							"name": "Muránska Lehota",
+							"slug": "muranska_lehota"
+						},
+						{
+							"name": "Muránska Zdychava",
+							"slug": "muranska_zdychava"
+						},
+						{
+							"name": "Muráň",
+							"slug": "muran"
+						},
+						{
+							"name": "Nandraž",
+							"slug": "nandraz"
+						},
+						{
+							"name": "Otročok",
+							"slug": "otrocok"
+						},
+						{
+							"name": "Ploské",
+							"slug": "ploske"
+						},
+						{
+							"name": "Polina",
+							"slug": "polina"
+						},
+						{
+							"name": "Prihradzany",
+							"slug": "prihradzany"
+						},
+						{
+							"name": "Ratkovské Bystré",
+							"slug": "ratkovske_bystre"
+						},
+						{
+							"name": "Ratková",
+							"slug": "ratkova"
+						},
+						{
+							"name": "Rašince",
+							"slug": "rasince"
+						},
+						{
+							"name": "Revúcka Lehota",
+							"slug": "revucka_lehota"
+						},
+						{
+							"name": "Rybník",
+							"slug": "rybnik"
+						},
+						{
+							"name": "Rákoš",
+							"slug": "rakos"
+						},
+						{
+							"name": "Sirk",
+							"slug": "sirk"
+						},
+						{
+							"name": "Skrešovo",
+							"slug": "skrešovo"
+						},
+						{
+							"name": "Sása",
+							"slug": "sasa"
+						},
+						{
+							"name": "Šivetice",
+							"slug": "sivetice"
+						},
+						{
+							"name": "Turčok",
+							"slug": "turcok"
+						},
+						{
+							"name": "Višňové",
+							"slug": "visnove"
+						},
+						{
+							"name": "Žiar",
+							"slug": "ziar"
+						},
+					]
 				},
 				{
 					"name": "Rimavská Sobota",
