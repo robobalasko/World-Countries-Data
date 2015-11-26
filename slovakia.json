@@ -55,7 +55,7 @@
 						},
 						{
 							"name": "Horná Mičiná",
-							"slug": "horna_micina",
+							"slug": "horna_micina"
 						},
 						{
 							"name": "Horné Pršany",
@@ -818,7 +818,7 @@
 						{
 							"name": "Vidiná",
 							"slug": "vidina"
-						},
+						}
 					]
 				},
 				{
@@ -912,7 +912,7 @@
 						{
 							"name": "Zlatno",
 							"slug": "zlatno"
-						},
+						}
 					]
 				},
 				{
@@ -1086,13 +1086,15 @@
 						{
 							"name": "Žiar",
 							"slug": "ziar"
-						},
+						}
 					]
 				},
 				{
 					"name": "Rimavská Sobota",
 					"slug": "rimavska_sobota",
-					"municipalities": []
+					"municipalities": [
+						
+					]
 				},
 				{
 					"name": "Veľký Krtíš",
