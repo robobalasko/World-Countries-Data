@@ -1,0 +1,986 @@
+{
+	"name": "Slovakia",
+	"areas": [
+		{
+			"name": "Banskobystrický kraj",
+			"slug": "banskobystricky_kraj",
+			"districts": [
+				{
+					"name": "Banská Bystrica",
+					"slug": "banska_bystrica",
+					"municipalities": [
+						{
+							"name": "Banská Bystrica",
+							"slug": "banska_bystrica"
+						},
+						{
+							"name": "Badín",
+							"slug": "badin"
+						},
+						{
+							"name": "Baláže",
+							"slug": "balaze"
+						},
+						{
+							"name": "Brusno",
+							"slug": "brusno"
+						},
+						{
+							"name": "Čerín",
+							"slug": "cerin"
+						},
+						{
+							"name": "Dolná Mičiná",
+							"slug": "dolna_micina"
+						},
+						{
+							"name": "Dolný Harmanec",
+							"slug": "dolny_harmanec"
+						},
+						{
+							"name": "Donovaly",
+							"slug": "donovaly"
+						},
+						{
+							"name": "Dúbravica",
+							"slug": "dubravica"
+						},
+						{
+							"name": "Harmanec",
+							"slug": "harmanec"
+						},
+						{
+							"name": "Hiadeľ",
+							"slug": "hiadel"
+						},
+						{
+							"name": "Horná Mičiná",
+							"slug": "horna_micina",
+						},
+						{
+							"name": "Horné Pršany",
+							"slug": "horne_prsany"
+						},
+						{
+							"name": "Horchoť",
+							"slug": "hrochot"
+						},
+						{
+							"name": "Hronsek",
+							"slug": "hronsek"
+						},
+						{
+							"name": "Kordíky",
+							"slug": "kordiky"
+						},
+						{
+							"name": "Králiky",
+							"slug": "kraliky"
+						},
+						{
+							"name": "Kynceľová",
+							"slug": "kyncelova"
+						},
+						{
+							"name": "Lučatín",
+							"slug": "lucatin"
+						},
+						{
+							"name": "Ľubietová",
+							"slug": "lubietova"
+						},
+						{
+							"name": "Malachov",
+							"slug": "malachov"
+						},
+						{
+							"name": "Medzibrod",
+							"slug": "medzibrod"
+						},
+						{
+							"name": "Motyčky",
+							"slug": "motycky"
+						},
+						{
+							"name": "Moštenica",
+							"slug": "mostenica"
+						},
+						{
+							"name": "Môlča",
+							"slug": "molca"
+						},
+						{
+							"name": "Nemce",
+							"slug": "nemce"
+						},
+						{
+							"name": "Oravce",
+							"slug": "oravce"
+						},
+						{
+							"name": "Podkonice",
+							"slug": "podkonice"
+						},
+						{
+							"name": "Pohronský Bukovec",
+							"slug": "pohronsky_bukovec"
+						},
+						{
+							"name": "Poniky",
+							"slug": "poniky"
+						},
+						{
+							"name": "Povrazník",
+							"slug": "povraznik"
+						},
+						{
+							"name": "Priechod",
+							"slug": "priechod"
+						},
+						{
+							"name": "Riečka",
+							"slug": "riecka"
+						},
+						{
+							"name": "Sebedín-Bečov",
+							"slug": "sebedin_becov"
+						},
+						{
+							"name": "Selce",
+							"slug": "selce"
+						},
+						{
+							"name": "Slovenská Ľupča",
+							"slug": "slovenska_lupca"
+						},
+						{
+							"name": "Staré Hory",
+							"slug": "stare_hory"
+						},
+						{
+							"name": "Strelníky",
+							"slug": "strelniky"
+						},
+						{
+							"name": "Špania Dolina",
+							"slug": "spania_dolina"
+						},
+						{
+							"name": "Tajov",
+							"slug": "tajov"
+						},
+						{
+							"name": "Turecká",
+							"slug": "turecka"
+						},
+						{
+							"name": "Vlkanová",
+							"slug": "vlkanova"
+						}
+					]
+				},
+				{
+					"name": "Banská Štiavnica",
+					"slug": "banska_stiavnica",
+					"municipalities": [
+						{
+							"name": "Banská Štiavnica",
+							"slug": "banska_stiavnica"
+						},
+						{
+							"name": "Banská Belá",
+							"slug": "banska_bela"
+						},
+						{
+							"name": "Banský Studenec",
+							"slug": "bansky_studenec"
+						},
+						{
+							"name": "Baďan",
+							"slug": "badan"
+						},
+						{
+							"name": "Beluj",
+							"slug": "beluj"
+						},
+						{
+							"name": "Dekýš",
+							"slug": "dekys"
+						},
+						{
+							"name": "Ilija",
+							"slug": "ilija"
+						},
+						{
+							"name": "Kozelník",
+							"slug": "kozelnik"
+						},
+						{
+							"name": "Močiar",
+							"slug": "mociar"
+						},
+						{
+							"name": "Podhorie",
+							"slug": "podhorie"
+						},
+						{
+							"name": "Počúvadlo",
+							"slug": "pocuvadlo"
+						},
+						{
+							"name": "Prenčov",
+							"slug": "prencov"
+						},
+						{
+							"name": "Svätý Anton",
+							"slug": "svaty_anton"
+						},
+						{
+							"name": "Štiavnické Bane",
+							"slug": "stiavnicke_bane"
+						},
+						{
+							"name": "Vysoká",
+							"slug": "vysoka"
+						}
+					]
+				},
+				{
+					"name": "Brezno",
+					"slug": "brezno",
+					"municipalities": [
+						{
+							"name": "Brezno",
+							"slug": "brezno"
+						},
+						{
+							"name": "Bacúch",
+							"slug": "bacuch"
+						},
+						{
+							"name": "Beňuš",
+							"slug": "benus"
+						},
+						{
+							"name": "Braväcovo",
+							"slug": "bravacovo"
+						},
+						{
+							"name": "Bystrá",
+							"slug": "bystra"
+						},
+						{
+							"name": "Čierny Balog",
+							"slug": "cierny_balog"
+						},
+						{
+							"name": "Dolná Lehota",
+							"slug": "dolna_lehota"
+						},
+						{
+							"name": "Drábsko",
+							"slug": "drabsko"
+						},
+						{
+							"name": "Heľpa",
+							"slug": "helpa"
+						},
+						{
+							"name": "Horná Lehota",
+							"slug": "horna_lehota"
+						},
+						{
+							"name": "Hronec",
+							"slug": "hronec"
+						},
+						{
+							"name": "Jarabá",
+							"slug": "jaraba"
+						},
+						{
+							"name": "Jasenie",
+							"slug": "jasenie"
+						},
+						{
+							"name": "Lom nad Rimavicou",
+							"slug": "lom_nad_rimavicou"
+						},
+						{
+							"name": "Michalová",
+							"slug": "michalova"
+						},
+						{
+							"name": "Mýto pod Ďumbierom",
+							"slug": "myto_pod_dumbierom"
+						},
+						{
+							"name": "Nemecká",
+							"slug": "nemecka"
+						},
+						{
+							"name": "Osrblie",
+							"slug": "osrblie"
+						},
+						{
+							"name": "Podbrezová",
+							"slug": "podbrezova"
+						},
+						{
+							"name": "Pohorelá",
+							"slug": "pohorela"
+						},
+						{
+							"name": "Pohronská Polhora",
+							"slug": "pohronska_polhora"
+						},
+						{
+							"name": "Polomka",
+							"slug": "polomka"
+						},
+						{
+							"name": "Predajná",
+							"slug": "predajna"
+						},
+						{
+							"name": "Ráztoka",
+							"slug": "raztoka"
+						},
+						{
+							"name": "Sihla",
+							"slug": "sihla"
+						},
+						{
+							"name": "Šumiac",
+							"slug": "sumiac"
+						},
+						{
+							"name": "Telgárt",
+							"slug": "telgart"
+						},
+						{
+							"name": "Valaská",
+							"slug": "valaska"
+						},
+						{
+							"name": "Vaľkovňa",
+							"slug": "valkovna"
+						},
+						{
+							"name": "Závadka nad Hronom",
+							"slug": "zavadka_nad_hronom"
+						}
+					]
+				},
+				{
+					"name": "Detva",
+					"slug": "detva",
+					"municipalities": [
+						{
+							"name": "Detva",
+							"slug": "detva"
+						},
+						{
+							"name": "Hriňová",
+							"slug": "hrinova"
+						},
+						{
+							"name": "Detvianska Huta",
+							"slug": "detvianska_huta"
+						},
+						{
+							"name": "Dúbravy",
+							"slug": "dubravy"
+						},
+						{
+							"name": "Horný Tisovník",
+							"slug": "horny_tisovnik"
+						},
+						{
+							"name": "Klokoč",
+							"slug": "klokoc"
+						},
+						{
+							"name": "Korytárky",
+							"slug": "korytarky"
+						},
+						{
+							"name": "Kriváň",
+							"slug": "krivan"
+						},
+						{
+							"name": "Látky",
+							"slug": "latka"
+						},
+						{
+							"name": "Podkriváň",
+							"slug": "podkrivan"
+						},
+						{
+							"name": "Slatinské Lazy",
+							"slug": "slatinske_lazy"
+						},
+						{
+							"name": "Stará Huta",
+							"slug": "stara_huta"
+						},
+						{
+							"name": "Stožok",
+							"slug": "stozok"
+						},
+						{
+							"name": "Vígľaš",
+							"slug": "viglas"
+						},
+						{
+							"name": "Vígľašská Huta - Kalinka",
+							"slug": "viglasska_huta_kalinka"
+						}
+					]
+				},
+				{
+					"name": "Krupina",
+					"slug": "krupina",
+					"municipalities": [
+						{
+							"name": "Dudince",
+							"slug": "dudince"
+						},
+						{
+							"name": "Krupina",
+							"slug": "krupina"
+						},
+						{
+							"name": "Bzovník",
+							"slug": "bzovnik"
+						},
+						{
+							"name": "Cerovo",
+							"slug": "cerovo"
+						},
+						{
+							"name": "Čabradský Vrbovok",
+							"slug": "cabradsky_vrbovok"
+						},
+						{
+							"name": "Čekovce",
+							"slug": "cekovce"
+						},
+						{
+							"name": "Devičie",
+							"slug": "devicie"
+						},
+						{
+							"name": "Dolné Mladonice",
+							"slug": "dolne_mladonice"
+						},
+						{
+							"name": "Dolný Badín",
+							"slug": "dolny_badin"
+						},
+						{
+							"name": "Domaníky",
+							"slug": "domaniky"
+						},
+						{
+							"name": "Drienovo",
+							"slug": "drienovo"
+						},
+						{
+							"name": "Drážovce",
+							"slug": "drazovce"
+						},
+						{
+							"name": "Hontianske Moravce",
+							"slug": "hontianske_moravce"
+						},
+						{
+							"name": "Hontianske Nemce",
+							"slug": "hontianske_nemce"
+						},
+						{
+							"name": "Hontianske Tesáre",
+							"slug": "hontianske_tesare"
+						},
+						{
+							"name": "Horné Mladonice",
+							"slug": "horne_mladonice"
+						},
+						{
+							"name": "Horný Badín",
+							"slug": "horny_badin"
+						},
+						{
+							"name": "Jalšovík",
+							"slug": "jalsovik"
+						},
+						{
+							"name": "Kozí Vrbovok",
+							"slug": "kozi_vrbovok"
+						},
+						{
+							"name": "Kráľovce-Krnišov",
+							"slug": "kralovce_krnisov"
+						},
+						{
+							"name": "Lackov",
+							"slug": "lackov"
+						},
+						{
+							"name": "Ladzany",
+							"slug": "ladzany"
+						},
+						{
+							"name": "Litava",
+							"slug": "litava"
+						},
+						{
+							"name": "Lišov",
+							"slug": "lisov"
+						},
+						{
+							"name": "Medovarce",
+							"slug": "medovarce"
+						},
+						{
+							"name": "Rykynčice",
+							"slug": "rykyncice"
+						},
+						{
+							"name": "Sebechleby",
+							"slug": "sebechleby"
+						},
+						{
+							"name": "Selce",
+							"slug": "selce"
+						},
+						{
+							"name": "Senohrad",
+							"slug": "senohrad"
+						},
+						{
+							"name": "Sudince",
+							"slug": "sudince"
+						},
+						{
+							"name": "Súdovce",
+							"slug": "sudovce"
+						},
+						{
+							"name": "Terany",
+							"slug": "terany"
+						},
+						{
+							"name": "Trpín",
+							"slug": "trpin"
+						},
+						{
+							"name": "Uňatín",
+							"slug": "unatin"
+						},
+						{
+							"name": "Zemiansky Vrbovok",
+							"slug": "zemiansky_vrbovok"
+						},
+						{
+							"name": "Žibritov",
+							"slug": "zibritov"
+						}
+					]
+				},
+				{
+					"name": "Lučenec",
+					"slug": "lucenec",
+					"municipalities": [
+						{
+							"name": "Fiľakovo",
+							"slug": "filakovo"
+						},
+						{
+							"name": "Lučenec",
+							"slug": "lucenec"
+						},
+						{
+							"name": "Ábelová",
+							"slug": "abelova"
+						},
+						{
+							"name": "Belina",
+							"slug": "belina"
+						},
+						{
+							"name": "Biskupice",
+							"slug": "biskupice"
+						},
+						{
+							"name": "Boľkovce",
+							"slug": "bolkovce"
+						},
+						{
+							"name": "Budiná",
+							"slug": "budina"
+						},
+						{
+							"name": "Bulhary",
+							"slug": "bulhary"
+						},
+						{
+							"name": "Buzitka",
+							"slug": "buzitka"
+						},
+						{
+							"name": "Čakanovce",
+							"slug": "cakanovce"
+						},
+						{
+							"name": "Čamovce",
+							"slug": "camovce"
+						},
+						{
+							"name": "Divín",
+							"slug": "divin"
+						},
+						{
+							"name": "Dobroč",
+							"slug": "dobroc"
+						},
+						{
+							"name": "Fiľakovské Kováče",
+							"slug": "filakovske_kovace"
+						},
+						{
+							"name": "Gregorova Vieska",
+							"slug": "gregorova_vieska"
+						},
+						{
+							"name": "Halič",
+							"slug": "halic"
+						},
+						{
+							"name": "Holiša",
+							"slug": "holisa"
+						},
+						{
+							"name": "Jelšovec",
+							"slug": "jelsovec"
+						},
+						{
+							"name": "Kalonda",
+							"slug": "kalonda"
+						},
+						{
+							"name": "Kotmanová",
+							"slug": "kotmanova"
+						},
+						{
+							"name": "Lehôtka",
+							"slug": "lehotka"
+						},
+						{
+							"name": "Lentvora",
+							"slug": "lentvora"
+						},
+						{
+							"name": "Lipovany",
+							"slug": "lipovany"
+						},
+						{
+							"name": "Lovinobaňa",
+							"slug": "lovinobana"
+						},
+						{
+							"name": "Lupoč",
+							"slug": "lupoc"
+						},
+						{
+							"name": "Ľuboreč",
+							"slug": "luborec"
+						},
+						{
+							"name": "Mašková",
+							"slug": "maskova"
+						},
+						{
+							"name": "Mikušovce",
+							"slug": "mikusovce"
+						},
+						{
+							"name": "Mučín",
+							"slug": "mucin"
+						},
+						{
+							"name": "Mýtna",
+							"slug": "mytna"
+						},
+						{
+							"name": "Nitra nad Ipľom",
+							"slug": "nitra_nad_iplom"
+						},
+						{
+							"name": "Nové Hony",
+							"slug": "nove_hony"
+						},
+						{
+							"name": "Panické Dravce",
+							"slug": "panicke_dravce"
+						},
+						{
+							"name": "Pinciná",
+							"slug": "pincina"
+						},
+						{
+							"name": "Pleš",
+							"slug": "ples"
+						},
+						{
+							"name": "Podrečany",
+							"slug": "podrecany"
+						},
+						{
+							"name": "Políchno",
+							"slug": "polichno"
+						},
+						{
+							"name": "Praha",
+							"slug": "praha"
+						},
+						{
+							"name": "Prša",
+							"slug": "prsa"
+						},
+						{
+							"name": "Píla",
+							"slug": "pila"
+						},
+						{
+							"name": "Radzovce",
+							"slug": "radzovce"
+						},
+						{
+							"name": "Rapovce",
+							"slug": "rapovce"
+						},
+						{
+							"name": "Ratka",
+							"slug": "ratka"
+						},
+						{
+							"name": "Ružiná",
+							"slug": "ruzina"
+						},
+						{
+							"name": "Stará Halič",
+							"slug": "stara_halic"
+						},
+						{
+							"name": "Šiatorská Bukovinka",
+							"slug": "siatorska_bukovinka"
+						},
+						{
+							"name": "Šurice",
+							"slug": "surice"
+						},
+						{
+							"name": "Šávoľ",
+							"slug": "savol"
+						},
+						{
+							"name": "Šíd",
+							"slug": "sid"
+						},
+						{
+							"name": "Tomášovce",
+							"slug": "tomasovce"
+						},
+						{
+							"name": "Točnica",
+							"slug": "tocnica"
+						},
+						{
+							"name": "Trebeľovce",
+							"slug": "trebelovce"
+						},
+						{
+							"name": "Trenč",
+							"slug": "trenc"
+						},
+						{
+							"name": "Tuhár",
+							"slug": "tuhar"
+						},
+						{
+							"name": "Veľká nad Ipľom",
+							"slug": "velka_nad_iplom"
+						},
+						{
+							"name": "Veľké Dravce",
+							"slug": "velke_dravce"
+						},
+						{
+							"name": "Vidiná",
+							"slug": "vidina"
+						},
+					]
+				},
+				{
+					"name": "Poltár",
+					"slug": "poltar",
+					"municipalities": [
+						{
+							"name": "Poltár",
+							"slug": "poltar"
+						},
+						{
+							"name": "Breznička",
+							"slug": "breznicka"
+						},
+						{
+							"name": "Cinobaňa",
+							"slug": "cinobana"
+						},
+						{
+							"name": "České Brezovo",
+							"slug": "ceske_brezovo"
+						},
+						{
+							"name": "Ďubákovo",
+							"slug": "dubakovo"
+						},
+						{
+							"name": "Hradište",
+							"slug": "hradiste"
+						},
+						{
+							"name": "Hrnčiarska Ves",
+							"slug": "hrnciarska_ves"
+						},
+						{
+							"name": "Hrnčiarske Zalužany",
+							"slug": "hrnciarske_zaluzany"
+						},
+						{
+							"name": "Kalinovo",
+							"slug": "kalinovo"
+						},
+						{
+							"name": "Kokava nad Rimavicou",
+							"slug": "kokava_nad_rimavicou"
+						},
+						{
+							"name": "Krná",
+							"slug": "krna"
+						},
+						{
+							"name": "Mládzovo",
+							"slug": "mladzovo"
+						},
+						{
+							"name": "Málinec",
+							"slug": "malinec"
+						},
+						{
+							"name": "Ozdín",
+							"slug": "ozdin"
+						},
+						{
+							"name": "Rovňany",
+							"slug": "rovnany"
+						},
+						{
+							"name": "Selce",
+							"slug": "selce"
+						},
+						{
+							"name": "Sušany",
+							"slug": "susany"
+						},
+						{
+							"name": "Šoltýska",
+							"slug": "soltyska"
+						},
+						{
+							"name": "Uhorské",
+							"slug": "uhorske"
+						},
+						{
+							"name": "Utekáč",
+							"slug": "utekac"
+						},
+						{
+							"name": "Veľká Ves",
+							"slug": "velka_ves"
+						},
+						{
+							"name": "Zlatno",
+							"slug": "zlatno"
+						},
+					]
+				},
+				{
+					"name": "Revúca",
+					"slug": "revuca",
+					"municipalities": []
+				},
+				{
+					"name": "Rimavská Sobota",
+					"slug": "rimavska_sobota",
+					"municipalities": []
+				},
+				{
+					"name": "Veľký Krtíš",
+					"slug": "velky_krtis",
+					"municipalities": []
+				},
+				{
+					"name": "Zvolen",
+					"slug": "zvolen",
+					"municipalities": []
+				},
+				{
+					"name": "Žarnovica",
+					"slug": "zarnovica",
+					"municipalities": []
+				},
+				{
+					"name": "Žiar nad Hronom",
+					"slug": "ziar_nad_hronom",
+					"municipalities": []
+				}
+			]
+		},
+		{
+			"name": "Bratislavský kraj",
+			"slug": "bratislavsky_kraj",
+			"districts": []
+		},
+		{
+			"name": "Košický kraj",
+			"slug": "kosicky_kraj",
+			"districts": []
+		},
+		{
+			"name": "Nitriansky kraj",
+			"slug": "nitriansky_kraj",
+			"districts": []
+		},
+		{
+			"name": "Prešovský kraj",
+			"slug": "presovsky_kraj",
+			"districts": []
+		},
+		{
+			"name": "Trenčiansky kraj",
+			"slug": "trenciansky_kraj",
+			"districts": []
+		},
+		{
+			"name": "Trnavský kraj",
+			"slug": "trnavsky_kraj",
+			"districts": []
+		},
+		{
+			"name": "Žilinský kraj",
+			"slug": "zilinsky_kraj",
+			"districts": []
+		}
+	]
+}
