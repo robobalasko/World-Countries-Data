@@ -1,5 +1,6 @@
 {
 	"name": "Slovakia",
+	"slug": "slovakia",
 	"areas": [
 		{
 			"name": "Banskobystrický kraj",
@@ -1093,7 +1094,438 @@
 					"name": "Rimavská Sobota",
 					"slug": "rimavska_sobota",
 					"municipalities": [
-						
+						{
+							"name": "Hnúšťa",
+							"slug": "hnusta"
+						},
+						{
+							"name": "Rimavská Sobota",
+							"slug": "rimavska_sobota"
+						},
+						{
+							"name": "Tisovec",
+							"slug": "tisovec"
+						},
+						{
+							"name": "Abovce",
+							"slug": "abovce"
+						},
+						{
+							"name": "Babinec",
+							"slug": "babinec"
+						},
+						{
+							"name": "Barca",
+							"slug": "barca"
+						},
+						{
+							"name": "Belín",
+							"slug": "belin"
+						},
+						{
+							"name": "Blhovce",
+							"slug": "blhovce"
+						},
+						{
+							"name": "Bottovo",
+							"slug": "bottovo"
+						},
+						{
+							"name": "Budikovany",
+							"slug": "budikovany"
+						},
+						{
+							"name": "Bátka",
+							"slug": "batka"
+						},
+						{
+							"name": "Cakov",
+							"slug": "cakov"
+						},
+						{
+							"name": "Čerenčany",
+							"slug": "cerencany"
+						},
+						{
+							"name": "Čierny Potok",
+							"slug": "cierny_potok"
+						},
+						{
+							"name": "Číž",
+							"slug": "ciz"
+						},
+						{
+							"name": "Dolné Zahorany",
+							"slug": "dolne_zahorany"
+						},
+						{
+							"name": "Dražice",
+							"slug": "drazice"
+						},
+						{
+							"name": "Drienčany",
+							"slug": "driencany"
+						},
+						{
+							"name": "Drňa",
+							"slug": "drna"
+						},
+						{
+							"name": "Dubno",
+							"slug": "dubno"
+						},
+						{
+							"name": "Dubovec",
+							"slug": "dubovec"
+						},
+						{
+							"name": "Dulovo",
+							"slug": "dulovo"
+						},
+						{
+							"name": "Figa",
+							"slug": "figa"
+						},
+						{
+							"name": "Gemerské Dechtáre",
+							"slug": "gemerske_dechtare"
+						},
+						{
+							"name": "Gemerské Michalovce",
+							"slug": "gemerske_michalovce"
+						},
+						{
+							"name": "Gemerský Jablonec",
+							"slug": "gemersky_jablonec"
+						},
+						{
+							"name": "Gemerček",
+							"slug": "gemercek"
+						},
+						{
+							"name": "Gortva",
+							"slug": "gortva"
+						},
+						{
+							"name": "Hajnáčka",
+							"slug": "hajnacka"
+						},
+						{
+							"name": "Hodejov",
+							"slug": "hodejov"
+						},
+						{
+							"name": "Hodejovec",
+							"slug": "hodejovec"
+						},
+						{
+							"name": "Horné Zahorany",
+							"slug": "horne_zahorany"
+						},
+						{
+							"name": "Hostice",
+							"slug": "hostice"
+						},
+						{
+							"name": "Hostišovce",
+							"slug": "hostisovce"
+						},
+						{
+							"name": "Hrachovo",
+							"slug": "hrachovo"
+						},
+						{
+							"name": "Hrušovo",
+							"slug": "hrusovo"
+						},
+						{
+							"name": "Hubovo",
+							"slug": "hubovo"
+						},
+						{
+							"name": "Husiná",
+							"slug": "husina"
+						},
+						{
+							"name": "Chanava",
+							"slug": "chanava"
+						},
+						{
+							"name": "Chrámec",
+							"slug": "chramec"
+						},
+						{
+							"name": "Ivanice",
+							"slug": "ivanice"
+						},
+						{
+							"name": "Janice",
+							"slug": "janice"
+						},
+						{
+							"name": "Jesenské",
+							"slug": "jesenske"
+						},
+						{
+							"name": "Jestice",
+							"slug": "jestice"
+						},
+						{
+							"name": "Kaloša",
+							"slug": "kalosa"
+						},
+						{
+							"name": "Kesovce",
+							"slug": "kesovce"
+						},
+						{
+							"name": "Klenovec",
+							"slug": "klenovec"
+						},
+						{
+							"name": "Kociha",
+							"slug": "kociha"
+						},
+						{
+							"name": "Konrádovce",
+							"slug": "konradovce"
+						},
+						{
+							"name": "Kraskovo",
+							"slug": "kraskovo"
+						},
+						{
+							"name": "Krokava",
+							"slug": "krokava"
+						},
+						{
+							"name": "Kružno",
+							"slug": "kruzno"
+						},
+						{
+							"name": "Kráľ",
+							"slug": "kral"
+						},
+						{
+							"name": "Kyjatice",
+							"slug": "kyjatice"
+						},
+						{
+							"name": "Lehota nad Rimavicou",
+							"slug": "lehota_nad_rimavicou"
+						},
+						{
+							"name": "Lenartovce",
+							"slug": "lenartovce"
+						},
+						{
+							"name": "Lenka",
+							"slug": "lenka"
+						},
+						{
+							"name": "Lipovec",
+							"slug": "lipovec"
+						},
+						{
+							"name": "Lukovištia",
+							"slug": "lukovistia"
+						},
+						{
+							"name": "Martinová",
+							"slug": "martinova"
+						},
+						{
+							"name": "Neporadza",
+							"slug": "neporadza"
+						},
+						{
+							"name": "Nižný Skálnik",
+							"slug": "nizny_skalnik"
+						},
+						{
+							"name": "Nová Bašta",
+							"slug": "nova_basta"
+						},
+						{
+							"name": "Orávka",
+							"slug": "oravka"
+						},
+						{
+							"name": "Ožďany",
+							"slug": "ozdany"
+						},
+						{
+							"name": "Padarovce",
+							"slug": "padarovce"
+						},
+						{
+							"name": "Pavlovce",
+							"slug": "padarovce"
+						},
+						{
+							"name": "Pavlovce",
+							"slug": "pavlovce"
+						},
+						{
+							"name": "Petrovce",
+							"slug": "petrovce"
+						},
+						{
+							"name": "Poproč",
+							"slug": "poproc"
+						},
+						{
+							"name": "Potok",
+							"slug": "potok"
+						},
+						{
+							"name": "Radnovce",
+							"slug": "radnovce"
+						},
+						{
+							"name": "Rakytník",
+							"slug": "rakytnik"
+						},
+						{
+							"name": "Ratkovská Lehota",
+							"slug": "ratkovska_lehota"
+						},
+						{
+							"name": "Ratkovská Suchá",
+							"slug": "ratkovska_sucha"
+						},
+						{
+							"name": "Riečka",
+							"slug": "riecka"
+						},
+						{
+							"name": "Rimavská Baňa",
+							"slug": "rimavska_bana"
+						},
+						{
+							"name": "Rimavská Seč",
+							"slug": "rimavska_sec"
+						},
+						{
+							"name": "Rimavské Brezovo",
+							"slug": "rimavske_brezovo"
+						},
+						{
+							"name": "Rimavské Janovce",
+							"slug": "rimavske_janovce"
+						},
+						{
+							"name": "Rimavské Zalužany",
+							"slug": "rimavske_zaluzany"
+						},
+						{
+							"name": "Rovné",
+							"slug": "rovne"
+						},
+						{
+							"name": "Rumince",
+							"slug": "rumince"
+						},
+						{
+							"name": "Slizké",
+							"slug": "slizke"
+						},
+						{
+							"name": "Stará Bašta",
+							"slug": "stara_basta"
+						},
+						{
+							"name": "Stránska",
+							"slug": "stranska"
+						},
+						{
+							"name": "Studená",
+							"slug": "studena"
+						},
+						{
+							"name": "Sútor",
+							"slug": "sutor"
+						},
+						{
+							"name": "Šimonovce",
+							"slug": "simonovce"
+						},
+						{
+							"name": "Širkovce",
+							"slug": "sirkovce"
+						},
+						{
+							"name": "Španie Pole",
+							"slug": "spanie_pole"
+						},
+						{
+							"name": "Štrkovec",
+							"slug": "strkovec"
+						},
+						{
+							"name": "Tachty",
+							"slug": "tachty"
+						},
+						{
+							"name": "Teplý Vrch",
+							"slug": "teply_vrch"
+						},
+						{
+							"name": "Tomášovce",
+							"slug": "tomasovce"
+						},
+						{
+							"name": "Uzovská Panica",
+							"slug": "uzovska_panica"
+						},
+						{
+							"name": "Valice",
+							"slug": "valice"
+						},
+						{
+							"name": "Veľké Teriakovce",
+							"slug": "velke_teriakovce"
+						},
+						{
+							"name": "Veľký Blh",
+							"slug": "velky_blh"
+						},
+						{
+							"name": "Večelkov",
+							"slug": "vecelkov"
+						},
+						{
+							"name": "Vieska nad Blhom",
+							"slug": "vieska_nad_blhom"
+						},
+						{
+							"name": "Vlkyňa",
+							"slug": "vlkyna"
+						},
+						{
+							"name": "Vyšné Valice",
+							"slug": "vysne_valice"
+						},
+						{
+							"name": "Vyšný Skálnik",
+							"slug": "vysny_skalnik"
+						},
+						{
+							"name": "Včelince",
+							"slug": "vcelince"
+						},
+						{
+							"name": "Zacharovce",
+							"slug": "zacharovce"
+						},
+						{
+							"name": "Zádor",
+							"slug": "zador"
+						},
+						{
+							"name": "Žíp",
+							"slug": "zip"
+						}
 					]
 				},
 				{
